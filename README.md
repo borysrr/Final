@@ -1,1 +1,1 @@
-This is borys, B00166769 and tom, B00163663 project
+In this repository, you can run—endlessly—through a Unity 3D world filled with obstacles and challenges. Built in C#, it features smooth controls, dynamic level generation, and a scoreboard that keeps you chasing your best run. It’s fast-paced fun wrapped in clean game mechanics.
